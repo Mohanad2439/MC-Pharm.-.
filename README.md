@@ -5,7 +5,7 @@ Live demo: https://mcpharm.ct.ws
 
 Brief
 -----
-This repository contains a PHP-based web application located in the MCPharm directory. README only documents what is present in the codebase.
+This repository contains a PHP-based web application located in the MCPharm directory. 
 
 Repository layout (files exactly as in the repo)
 -----
