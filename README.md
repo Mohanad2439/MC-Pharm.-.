@@ -7,7 +7,7 @@ Brief
 -----
 This repository contains a PHP-based web application located in the MCPharm directory. 
 
-Repository layout (files exactly as in the repo)
+Repository layout 
 -----
 MCPharm/
 - .gitignore
@@ -20,7 +20,7 @@ MCPharm/
 - style.css
 - Images/  (image assets)
 
-What each file is (based only on file names / code entry points)
+What each file is 
 -----
 - index.php — main entry page for the application (front page).
 - Search results page.php — handles search form results (index.php contains a form pointing to this file).
@@ -31,7 +31,7 @@ What each file is (based only on file names / code entry points)
 - style.css — site styling used by the PHP pages.
 - Images/ — directory containing image assets referenced by the pages.
 
-How to run the application locally (exact steps for files present)
+How to run the application locally 
 -----
 1. Clone the repository:
    git clone https://github.com/Mohanad2439/Online-Pharmacy.git
