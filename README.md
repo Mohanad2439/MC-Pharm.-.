@@ -1,8 +1,6 @@
 Online-Pharmacy (MCPharm)
 =========================
 
-Live demo: https://mcpharm.ct.ws
-
 Brief
 -----
 This repository contains a PHP-based web application located in the MCPharm directory. 
